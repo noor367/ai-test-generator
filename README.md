@@ -1,7 +1,7 @@
 # AI Test Generators
 A simple project to leverage the use of AI chatbot APIs for a focused generation of tests.
 
-The scripts are very basic as an introductory approach to using AI APIs.
+The scripts are very basic as an introductory approach to using AI APIs. They currently just use a user story defined in the main function to form the prompt.
 
 Example output:
 
